@@ -1,0 +1,93 @@
+ body{
+ 	background: #fffb88;
+ 	/*overflow: hidden;*/
+ }
+
+ #puzzleboard{
+ 	font-size: 50px;
+ 	text-align: center;
+ 	width:300px;
+ 	height:300px;
+ 	background-color: pink;
+ 	border-color: purple;
+ 	border-style: dashed;
+ 	border-spacing;
+ 	display: block;
+ 	margin: 0 auto;
+ }
+
+ #puzzleContainer{
+  text-align: center;
+  display:block;
+  width:1000px;
+  height:150px;
+  margin:0 auto;
+  padding: 30px;
+  /*background-color: white;*/
+ }
+  #draggable{
+    display: inline-block;
+  	background-image: url('img/3.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+  #draggable2{
+    display: inline-block;
+  	background-image: url('img/2.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+   #draggable3{
+    display: inline-block;
+  	background-image: url('img/1.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+  	  #draggable4{
+        display: inline-block;
+  	background-image: url('img/9.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+  	  #draggable5{
+    display: inline-block;
+  	background-image: url('img/5.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+  	  #draggable6{
+        display: inline-block;
+  	background-image: url('img/8.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+  	  #draggable7{
+        display: inline-block;
+  	background-image: url('img/7.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+     #draggable8{
+      display: inline-block;
+  	background-image: url('img/6.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+  	  #draggable9{
+        display: inline-block;
+  	background-image: url('img/4.jpg');
+  	background-size: 100px 100px;
+  	background-repeat: no-repeat;
+  	width: 100px; height: 100px;}
+
+  	
+
+
