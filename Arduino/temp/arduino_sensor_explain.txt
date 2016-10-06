@@ -1,0 +1,1 @@
+I did  the temperature sensor for this project, so I set up the sensor that if temp is less then 25, it’s not going to turn on the light until temp changes to 25.
